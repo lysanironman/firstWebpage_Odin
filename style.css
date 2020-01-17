@@ -1,0 +1,13 @@
+p {
+    color: red;
+}
+
+a {
+    color: blue;
+}
+body {
+    background-color: black;
+    font-size: 16px;
+    color: goldenrod;
+    font-family: Chiller, 'Segoe UI', Arial;
+}
