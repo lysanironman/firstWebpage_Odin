@@ -10,4 +10,16 @@ body {
     font-size: 16px;
     color: goldenrod;
     font-family: Chiller, 'Segoe UI', Arial;
+    text-align: center;
+}
+div {
+    text-align: center;
+    }
+ol {
+    display: inline-block;text-align: left;
+}
+ul {display: inline-block;text-align: left;
+}
+table {
+    display: inline-block;text-align: left;
 }
