@@ -23,3 +23,11 @@ ul {display: inline-block;text-align: left;
 table {
     display: inline-block;text-align: left;
 }
+h1 {
+    font-weight:bolder:
+    font-size: 1.5em;
+    background-color: #dff;
+    margin: 20px;
+    margin-right: 400px;
+    margin-left: 400px;
+    padding: 20px;
