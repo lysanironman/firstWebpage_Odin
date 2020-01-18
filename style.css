@@ -18,8 +18,12 @@ body {
 div {
     text-align: center;
     }
-ol {
-    display: inline-block;text-align: left;
+ol {display: inline-block;text-align: left;
+    border-style: groove;
+    border-color:blue;
+    border-radius: 20px;
+    border-width: 10px;
+    border-block-end-width: 10px;
 }
 ul {display: inline-block;text-align: left;
 }
@@ -27,7 +31,7 @@ table {
     display: inline-block;text-align: left;
 }
 h1 {
-        font-weight:bolder:
+ font-weight:bolder;
     font-size: 1.5em;
     background-color: rgb(20,20,60);
     margin: 20px;
@@ -35,3 +39,4 @@ h1 {
     margin-left: 400px;
     border-style: outset;
     padding: 20px;
+}
