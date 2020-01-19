@@ -15,9 +15,6 @@ body {
     font-family: Papyrus, 'Segoe UI', Arial;
     text-align: center;
 }
-div {
-    text-align: center;
-    }
 ol {display: inline-block;text-align: left;
     border-style: groove;
     border-color:goldenrod;
@@ -51,4 +48,7 @@ img {
 }
 li {
     color:rgb(6, 105, 47);
+}
+.runicTable {
+    grid-column: 1/1;
 }
